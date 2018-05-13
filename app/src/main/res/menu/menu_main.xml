@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.andamariam.examproject2.MainActivity">
+    <item
+        android:id="@+id/btnHome"
+        android:orderInCategory="1"
+        android:title="@string/home"
+        app:showAsAction="always" />
+    <item
+
+        android:id="@+id/btnOrder"
+        android:orderInCategory="2"
+        android:title="@string/order"
+        app:showAsAction="ifRoom" />
+
+</menu>
+

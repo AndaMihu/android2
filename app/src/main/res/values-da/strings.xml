@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">COBIO</string>
+    <string name="action_settings">FORSIDE</string>
+    <string name="title_activity_receip">ReceipActivity</string>
+    <string name="welcome">Velkommen</string>
+    <string name="description">"Design din egen sunde skål eller vælg fra vores sunde menu "</string>
+    <string name="dish">"Opret din ret "</string>
+    <string name="menu">"Vælg fra vores menu "</string>
+    <string name="home">Forside</string>
+    <string name="order">Bestil</string>
+
+    <string-array
+        name="sauce">
+        <item>Bolognese sovs</item>
+        <item>Agliata</item>
+        <item>Fettuccine Alfredo</item>
+    </string-array>
+    <string name="ownDish">"lav din egen skål "</string>
+    <string name="dishDescription">"Vælg den type skål, du vil oprette, fra menuen "</string>
+    <string name="shrimps">Rejer</string>
+    <string name="chicken">Kylling</string>
+    <string name="salmon">Laks</string>
+    <string name="ownPasta">"Lav din egen pasta "</string>
+    <string name="ownBurger">Lav din egen burger</string>
+    <string name="ownPizza">Lav din egen pizza</string>
+    <string name="delivery">"Leveringstid "</string>
+    <string name="checkout">Check ud</string>
+
+</resources>

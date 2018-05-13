@@ -1,0 +1,42 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.andamariam.examproject2.MainActivity">
+
+    <!--<item-->
+
+        <!--android:id="@+id/btnHome"-->
+        <!--android:orderInCategory="1"-->
+        <!--android:title="BACK"-->
+        <!--app:showAsAction="ifRoom"-->
+        <!--/>-->
+
+
+    <item
+        android:id="@+id/btnMain"
+        android:title="@string/home"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/chooseDish"
+        android:title="Choose Dish"
+        app:showAsAction="ifRoom">
+
+<menu>
+    <item
+        android:id="@+id/pasta"
+        android:title="Pasta"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/burger"
+        android:title="Burger"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/pizza"
+        android:title="Pizza"
+        app:showAsAction="ifRoom"/>
+</menu>
+    </item>
+
+</menu>

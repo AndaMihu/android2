@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">COBIO</string>
+    <string name="action_settings">HOME</string>
+    <string name="title_activity_receip">ReceipActivity</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_dish">DishActivity</string>
+    <string name="title_activity_time_picker">TimePickerActivity</string>
+    <string name="title_activity_checkout">CheckoutActivity</string>
+    <string name="welcome">Welcome</string>
+    <string name="description">Design your own healthy dish or choose from our healthy menu</string>
+    <string name="dish">Create your dish</string>
+    <string name="menu">Choose from our menu</string>
+    <string name="home">Home</string>
+    <string name="order">Order</string>
+    <string name="ownDish">Create your own dish</string>
+    <string name="dishDescription">Select from the menu the type of dish you want to create</string>
+    <string name="shrimps">Shrimps</string>
+    <string name="chicken">Chicken</string>
+    <string name="salmon">Salmon</string>
+    <string name="ownPasta">Create your own pasta</string>
+    <string name="ownBurger">Create your own burger</string>
+    <string name="ownPizza">Create your own pizza</string>
+    <string name="delivery">Delivery time</string>
+    <string name="checkout">Check out</string>
+
+    <string-array
+        name="sauce">
+        <item>Bolognese sauce</item>
+        <item>Agliata</item>
+        <item>Fettuccine Alfredo</item>
+    </string-array>
+
+</resources>
